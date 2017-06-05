@@ -11,11 +11,11 @@ The application uses Bootstrap to make it look better but I didn't pay much atte
 
 #Jetty
 To run the application on Jetty from the command line, open the cmd line at the project folder(where the pom.xml is) and use this command: mvn jetty:run
-The application runs at localhost:7777 and the main page is localhost:7777/customers
+The application runs at localhost:7777 and the main page is: localhost:7777/customers
 
 #Tomcat
 To run the application on Tomcat from the command line, open the cmd line at the project folder(where the pom.xml is) and use this command: mvn tomcat7:run
-The application runs at localhost:7777 and the main page is localhost:7777/customers
+The application runs at localhost:7777 and the main page is:  localhost:7777/customers
 
 #Jboss
 Unfortunately I was unable to run the application using Jboss. I tried diffent versions of Jboss, different configurations but to no avail.
