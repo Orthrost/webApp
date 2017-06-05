@@ -10,7 +10,7 @@ The application uses Bootstrap to make it look better but I didn't pay much atte
 
 
 #Jetty
-To run the application on Jetty from the command line, open the cmd line at the project folder(where the pom.xml is) and use this command: mvn jetty:run
+To run the application on Jetty from the command line, open the cmd line at the project folder (where the pom.xml is) and use this command: mvn jetty:run
 The application runs at localhost:7777 and the main page is: localhost:7777/customers
 
 #Tomcat
